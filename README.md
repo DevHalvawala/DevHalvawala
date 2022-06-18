@@ -64,7 +64,7 @@ I am a Web Designer and UI/UX Designer <img src="https://media.giphy.com/media/W
 <!--     <img src="http://github-readme-streak-stats.herokuapp.com?user=DevHalvawala&theme=buefy-dark&hide_border=true"/> -->
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DevHalvawala&theme=radical&hide_border=true)](https://git.io/streak-stats)<br>
     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevHalvawala&show_icons=true&theme=radical&hide_border=true)<br>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevHalvawala&langs_count=8&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevHalvawala&langs_count=6&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
    
    
    
