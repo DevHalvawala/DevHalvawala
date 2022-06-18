@@ -12,9 +12,14 @@
   </a>
    <h1>
   Hey there!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" height="100"/>
 </h1>
     <img src="https://komarev.com/ghpvc/?username=DevHalvawala&style=flat-square&color=blue" alt=""/>
+    <div align="center">
+<!--   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> -->
+  <img src="https://user-images.githubusercontent.com/84128824/174425894-e2a49d7a-69d3-4fde-af9c-50e802ca5683.gif" width="600" height="300"/>
+
+</div>
 </div>
 </div>
 
