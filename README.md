@@ -61,7 +61,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS" alt="VS" width="80" height="80"/>&nbsp;  
 
 ### :fire: My Stats :
-   
+<!--     <img src="http://github-readme-streak-stats.herokuapp.com?user=DevHalvawala&theme=buefy-dark&hide_border=true"/> -->
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DevHalvawala&theme=buefy-dark&hide_border=true)](https://git.io/streak-stats)
 </div>
 </div>
  
