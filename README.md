@@ -26,11 +26,11 @@
 
 ### :man_technologist: About Me :
 I am a Web Designer and UI/UX Designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m currently a Computer Science student at Charotar University of Science and Technology.
 
 - :seedling: Exploring and Pursuing the path of Web Development.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I like to read books related SEO and Digital Marketing.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-DevHalvawala-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dev-halvawala-764929209/)
   </div>
