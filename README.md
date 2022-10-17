@@ -24,7 +24,7 @@
 </div>
 <div>
 
-### :man_technologist: About Me :
+## :man_technologist: About Me :
 I am a Web Designer and UI/UX Designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m currently a Computer Science student at Charotar University of Science and Technology.
 
@@ -35,7 +35,7 @@ I am a Web Designer and UI/UX Designer <img src="https://media.giphy.com/media/W
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-DevHalvawala-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dev-halvawala-764929209/)
   </div>
   <div>
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="60" height="60"/>&nbsp;
@@ -60,11 +60,11 @@ I am a Web Designer and UI/UX Designer <img src="https://media.giphy.com/media/W
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="tailwind" alt="tailwind" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS" alt="VS" width="60" height="60"/>&nbsp;  
 
-### :fire: My Stats :
+## :fire: My Stats :
 <!--     <img src="http://github-readme-streak-stats.herokuapp.com?user=DevHalvawala&theme=buefy-dark&hide_border=true"/> -->
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DevHalvawala&theme=radical&hide_border=true)](https://git.io/streak-stats)<br>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevHalvawala&show_icons=true&theme=radical&hide_border=true)<br>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevHalvawala&langs_count=6&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  # [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DevHalvawala&theme=radical&hide_border=true)](https://git.io/streak-stats)<br>
+  # ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevHalvawala&show_icons=true&theme=radical&hide_border=true)<br>
+  # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevHalvawala&langs_count=6&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
    
    
    
