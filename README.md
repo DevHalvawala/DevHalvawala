@@ -12,7 +12,7 @@
   </a>
    <h1>
   Hey there! Dev Halvawala
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" height="100"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70" height="70"/>
 </h1>
     <img src="https://komarev.com/ghpvc/?username=DevHalvawala&style=flat-square&color=blue" alt=""/>
     <div align="center">
