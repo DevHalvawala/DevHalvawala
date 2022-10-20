@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
    <h1>
-  Hey there! Dev Halvawala
+  Hey! Dev Halvawala
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70" height="70"/>
 </h1>
     <img src="https://komarev.com/ghpvc/?username=DevHalvawala&style=flat-square&color=blue" alt=""/>
