@@ -29,6 +29,8 @@ I am a Web Designer and UI/UX Designer <img src="https://media.giphy.com/media/W
 - :telescope: I’m currently a Computer Science student at Charotar University of Science and Technology.
 
 - :seedling: Exploring and Pursuing the path of Web Development.
+  
+- :seedling: Enthusiasts of Amazon Web Services(AWS).
 
 - :zap: In my free time, I like to read books related SEO and Digital Marketing.
 
