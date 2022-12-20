@@ -25,7 +25,7 @@
 <div>
 
 ## :man_technologist: About Me :
-I am a Web Designer and UI/UX Designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Web Designer and UI/UX Designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> from India.
 - :telescope: I’m currently a Computer Science student at Charotar University of Science and Technology.
 
 - :seedling: Exploring and Pursuing the path of Web Development.
