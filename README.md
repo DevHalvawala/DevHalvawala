@@ -24,7 +24,7 @@
 </div>
 <div>
 
-## :man_technologist: About Me :
+## :man_technologist: About  :
 I am a Web Designer and UI/UX Designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> from India.
 - :telescope: I’m currently a Computer Science student at Charotar University of Science and Technology.
 
