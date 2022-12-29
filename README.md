@@ -32,7 +32,7 @@ I am a Web Designer and UI/UX Designer <img src="https://media.giphy.com/media/W
   
 - :seedling: Enthusiasts of Amazon Web Services(AWS).
 
-- :zap: In my free time, I like to read books related SEO and Digital Marketing.
+- :zap: In my free time, I like to read books related to SEO and Digital Marketing.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-DevHalvawala-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dev-halvawala-764929209/)
   </div>
