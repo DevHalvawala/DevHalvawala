@@ -39,7 +39,6 @@ I am a Web Designer and UI/UX Designer <img src="https://media.giphy.com/media/W
   <div>
 ## :hammer_and_wrench: Languages and Tools :
   <div>
-    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="767ffff1-db58-4479-a7b4-f56aa7722033" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/behance/behance-original-wordmark.svg" title="behance" alt="behance" width="60" height="60"/>&nbsp;
